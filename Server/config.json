@@ -4,9 +4,9 @@
   "mysql_server": "127.0.0.1",
   "mysql_user": "root",
   "server_port": 9339,
-  "default_name": "Mr Vitalik",
+  "default_name": "Brawler",
   "default_region": "IL",
-  "default_trophies": 99999,
+  "default_trophies": 0,
   "patch_url": "",
   "use_content_patch": false
 }
